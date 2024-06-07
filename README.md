@@ -26,6 +26,10 @@ The database and table will be created without an export file, however,
 if there is an export zip file in their downloads folder it will be 
 extracted and added to the table. 
 
+The cleaned_data.csv file in the CleaningData directory would not be there the
+first time a user set up the app. I included that as an example of what the csv
+file would look like after the data was extracted from the export XML file. 
+
 #### Project Directory Layout
 Main Directory</br>
 &emsp;&emsp;main.py</br>
